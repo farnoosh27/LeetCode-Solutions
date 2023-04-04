@@ -2,8 +2,8 @@
 This is the question 169 on Leetcode and has two parts: 
 
 
-1) simple hashmap to store the frequency and then check were the frequency is n/2
-2) using "Boyer Mooyer" algorithm to get rid of the hashmap. here is some information about the follow up solution:
+1) Simple hashmap to store the frequency and then check were the frequency is n/2
+2) Using "Boyer Mooyer" algorithm to get rid of the hashmap. here is some information about the follow up solution:
 The Boyer-Moore algorithm is an efficient algorithm for finding a pattern within a text string. It was developed by Robert S. Boyer and J Strother Moore in 1977, and it is widely used in computer science and software engineering for its simplicity and effectiveness.
 
 The algorithm works by scanning the text string from left to right and comparing it with the pattern from right to left. This allows the algorithm to skip over sections of the text string that cannot possibly match the pattern, which leads to a significant speedup over naive pattern-matching algorithms.
