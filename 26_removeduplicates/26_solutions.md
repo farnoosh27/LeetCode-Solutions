@@ -21,9 +21,9 @@ int k = removeDuplicates(nums); // Calls your implementation
 assert k == expectedNums.length;
 for (int i = 0; i < k; i++) {
     assert nums[i] == expectedNums[i];
-    
-## Neet Code explaination video: https://www.youtube.com/watch?v=DEJAZBq0FDA
+
 ## solution:
+Neet Code explaination video: https://www.youtube.com/watch?v=DEJAZBq0FDA
 There will be two pointers left and right:
 for this question we can not use hashmap because we need to do the operation inplace
  we need to us two pointers:
