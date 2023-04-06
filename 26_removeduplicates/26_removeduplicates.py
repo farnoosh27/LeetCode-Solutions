@@ -15,6 +15,9 @@ def removeDuplicates(nums):
 nums = [0,0,1,1,1,2,2,3,3,4]
 print(removeDuplicates(nums))
 
+# each pointer iterates over the same array:
+# so, the time complexity is O(2.n) which we can assume O(n)
+
 
         
     
