@@ -11,7 +11,16 @@ Custom Judge:
 The judge will test your solution with the following code:
 
 
+int[] nums = [...]; // Input array
+int[] expectedNums = [...]; // The expected answer with correct length
 
+int k = removeDuplicates(nums); // Calls your implementation
+
+assert k == expectedNums.length;
+for (int i = 0; i < k; i++) {
+    assert nums[i] == expectedNums[i];
+    
+# Neet Code explaination video: https://www.youtube.com/watch?v=DEJAZBq0FDA
 ## solution:
 There will be two pointers left and right:
 for this question we can not use hashmap because we need to do the operation inplace
