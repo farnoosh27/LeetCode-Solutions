@@ -4,6 +4,7 @@ def removeDuplicates(nums):
         # l for left --> tell us the next unique value
         # l also tells us how many unique values
         # r for right --> scanning throught the array
+        # l starts from 1 cause the first value is always unique
         l = 1
         for r in range(1, len(nums)):
             if nums[r] != nums[r-1]:
