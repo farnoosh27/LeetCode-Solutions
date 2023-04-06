@@ -19,6 +19,7 @@ Output: 2
 
 ### Solutions: 
 This is the question 169 on Leetcode and has two parts:
+You can follow NeetCode tutorial on YouTube: https://www.youtube.com/watch?v=7pnhv842keE&t=339s
 
 
 1) Simple hashmap to store the frequency and then check were the frequency is n/2
