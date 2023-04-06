@@ -5,11 +5,18 @@ Given an array nums of size n, return the majority element.
 
 The majority element is the element that appears more than ⌊n / 2⌋ times. You may assume that the majority element always exists in the array.
 
-This is the question 169 on Leetcode and has two parts: 
+example 1: 
+
 Input: nums = [3,2,3]
 Output: 3
 
+example 2: 
+Input: nums = [2,2,1,1,1,2,2]
+Output: 2
+
 ### Solutions: 
+This is the question 169 on Leetcode and has two parts:
+
 
 1) Simple hashmap to store the frequency and then check were the frequency is n/2
 2) Using "Boyer Mooyer" algorithm to get rid of the hashmap. here is some information about the follow up solution:
