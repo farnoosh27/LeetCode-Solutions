@@ -31,6 +31,7 @@ Notice that the answer must be a substring, "pwke" is a subsequence and not a su
 ## Solution: 
 
 The NeetCode solution for that can be found at: https://www.youtube.com/watch?v=wiGpQwVHdE0
+
 This question is the best answered with **sliding window** technique. 
 
 "The sliding window technique involves maintaining a window that contains only distinct characters. We start with a window of size 0 (i.e., an empty set), and add characters to the window one by one as we slide the window to the right. Whenever we encounter a repeating character, we remove the leftmost character(s) from the window until we have a window of distinct characters again."
