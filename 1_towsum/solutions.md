@@ -22,3 +22,9 @@ Exmple 2:
 Input: nums = [3,2,4], target = 6
 
 Output: [1,2]
+
+## Soloutions: 
+
+1) The brute force method would be to have two for loops and check if any two integers in the nums add up to the target, and if so, return the indices of them.
+
+2) 
