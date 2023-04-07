@@ -29,4 +29,4 @@ Output: [1,2]
 
 1) The brute force method would be to have two for loops and check if any two integers in the nums add up to the target, and if so, return the indices of them._> overall time complexity is :O(n*n)
 
-2) using hashmap and enumerate function to reduce the time complexity! 
+2) using hashmap and enumerate function to reduce the time complexity! in our hashmap we are gonna be mapping the value to the index: 
