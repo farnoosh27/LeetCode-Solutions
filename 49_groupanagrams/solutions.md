@@ -24,3 +24,8 @@ example 3:
 Input: strs = ["a"]
 
 Output: [["a"]]
+
+## Solutions:
+There are two solutions for this:
+1) using regular hashmap for eachone, and then sorting them. --> time complexity: nlong(n)
+2) (more optimized) 
