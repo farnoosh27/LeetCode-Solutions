@@ -1,4 +1,6 @@
-
+# The set data structure is well-suited for this task because it has constant time complexity for
+# adding and removing elements, as well as for checking membership (i.e., whether an element is in the set). 
+# By using a set to keep track of the distinct characters in the current window, we can perform these operations efficiently and without having to iterate over the window every time.
 
 def longestsubarray(s):
     start, end = 0, 0 
