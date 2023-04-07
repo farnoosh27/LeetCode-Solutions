@@ -26,6 +26,7 @@ Input: nums = [3,2,4], target = 6
 Output: [1,2]
 
 ## Soloutions: 
+Here is a link to NeetCode: https://www.youtube.com/watch?v=KLlXCFG5TnA
 
 1) The brute force method would be to have two for loops and check if any two integers in the nums add up to the target, and if so, return the indices of them._> overall time complexity is :O(n*n)
 
