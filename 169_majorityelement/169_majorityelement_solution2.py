@@ -12,6 +12,11 @@ def majorityElement( nums):
         else:
             count -= 1
     return res
+# The Boyer-Moore majority vote algorithm has a 
+# time complexity of O(n) and a space complexity of O(1).
+
+
+
 
 
      
