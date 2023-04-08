@@ -1,3 +1,6 @@
+# Boyer-Moore majority vote algorithm. This algorithm is used to find the majority element in an array, 
+# which is an element that appears more than ⌊n/2⌋ times (where n is the length of the array).
+
 def majorityElement( nums):
     count = 0
     res = None  # initialize to None
