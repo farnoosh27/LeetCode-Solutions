@@ -1,5 +1,7 @@
 ## 169 LeetCode
 ### easy
+### array
+
 ### Question:
 Given an array nums of size n, return the majority element.
 
@@ -18,6 +20,7 @@ Input: nums = [2,2,1,1,1,2,2]
 Output: 2
 
 ### Solutions: 
+
 This is the question 169 on Leetcode and has two parts:
 You can follow NeetCode tutorial on YouTube: https://www.youtube.com/watch?v=7pnhv842keE&t=339s
 
