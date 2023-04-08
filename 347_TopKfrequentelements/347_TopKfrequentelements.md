@@ -37,7 +37,7 @@ Here is the NeetCode solution explained on YouTube: https://www.youtube.com/watc
 3) 
 4) using bucket sort algorithm: "Bucket sort is a sorting algorithm that divides an array of elements into several "buckets", where each bucket is then sorted using another sorting algorithm, such as insertion sort, quicksort or merge sort. After sorting each bucket, the buckets are merged back together to produce the final sorted array.
 
-![alt text]([347_TopKfrequentelements/bucketsort.png](https://github.com/farnoosh27/LeetCode-Solutions/blob/9d6e6f0a88246375dbd5d580d062c6b7eb034869/347_TopKfrequentelements/bucketsort.png))
+![alt text](347_TopKfrequentelements/bucketsort.png)
 
 
 Bucket sort is useful when the input data is uniformly distributed over a range. It has a linear time complexity O(n) for average and best cases, where n is the number of elements in the input array, making it one of the fastest sorting algorithms for such inputs.
