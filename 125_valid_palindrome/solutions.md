@@ -17,4 +17,6 @@ example 2:
 Input: s = "rat", t = "car"
 
 Output: false
-ص
+
+## Solution
+
