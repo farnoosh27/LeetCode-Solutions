@@ -1,6 +1,9 @@
 ##  Top K Frequent Elements
 ### medium
 ### array
+
+## Question: 
+
 Given an integer array nums and an integer k, return the k most frequent elements.
 You may return the answer in any order.
 
@@ -17,3 +20,13 @@ Example 2:
 Input: nums = [1], k = 1
 
 Output: [1]
+
+
+It is guaranteed that the answer is unique.
+ 
+
+Follow up: Your algorithm's time complexity must be better than O(n log n), where n is the array's size.
+
+## Solution
+
+
