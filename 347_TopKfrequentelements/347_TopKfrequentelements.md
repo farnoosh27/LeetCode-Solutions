@@ -28,10 +28,14 @@ It is guaranteed that the answer is unique.
 Follow up: Your algorithm's time complexity must be better than O(n log n), where n is the array's size.
 
 ## Solution
+
 Here is the NeetCode solution explained on YouTube: https://www.youtube.com/watch?v=YPTqKIgVk-k
+
 1)
+
 2) using heap
-3) using bucket sort algorithm: "Bucket sort is a sorting algorithm that divides an array of elements into several "buckets", where each bucket is then sorted using another sorting algorithm, such as insertion sort, quicksort or merge sort. After sorting each bucket, the buckets are merged back together to produce the final sorted array.
+3) 
+4) using bucket sort algorithm: "Bucket sort is a sorting algorithm that divides an array of elements into several "buckets", where each bucket is then sorted using another sorting algorithm, such as insertion sort, quicksort or merge sort. After sorting each bucket, the buckets are merged back together to produce the final sorted array.
 
 Bucket sort is useful when the input data is uniformly distributed over a range. It has a linear time complexity O(n) for average and best cases, where n is the number of elements in the input array, making it one of the fastest sorting algorithms for such inputs.
 
