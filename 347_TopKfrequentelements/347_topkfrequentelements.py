@@ -1,9 +1,6 @@
-
 def topkfrequentelements(nums, k):
-    # this is the bucket sort solution
-    # but for this bucket sort we are going through the array 
-    # the time complexity of a bucket sort is O(n)
-  count = {}
+    # create a dictionary to store the frequency of each number
+    count = {}
     for i in range(len(nums)):
         if nums[i] in count:
             count[nums[i]] += 1
@@ -21,10 +18,7 @@ def topkfrequentelements(nums, k):
         res.extend(freq[i])
         if len(res) == k:
             return res
+
 nums = [0,0,1,1,1,3,3,3,3,2,2,3,3,4]
 k = 2
 print(topkfrequentelements(nums, k))
-
-
-        
-    
