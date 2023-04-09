@@ -20,3 +20,4 @@ Output: false
 
 ## Solution
 
+Here is the NeetCode solution: https://www.youtube.com/watch?v=9UtInBqnCgA
