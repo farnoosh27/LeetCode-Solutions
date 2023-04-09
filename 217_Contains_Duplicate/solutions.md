@@ -12,6 +12,7 @@ Input: nums = [1,2,3,1]
 Output: true
 
 ## Solution
+Here is the link to the NeetCode solution: https://www.youtube.com/watch?v=3OamzN90kPg
 This is a beginner question, and has a lot of solutions:
 
 1) brute force solution would exist, which requires O(n*n) time complexity and O(1) space complexity.
