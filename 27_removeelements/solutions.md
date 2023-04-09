@@ -1,6 +1,7 @@
 
 ## 27 remove elements (in-place)
 ### easy
+### array
 
 Given an integer array nums and an integer val, remove all occurrences of val in nums in-place. The order of the elements may be changed. Then return the number of elements in nums which are not equal to val.
 
@@ -18,4 +19,5 @@ For each element that "r" points to, the solution checks if it is equal to "val"
 After the traversal is complete, the solution returns the value of "l", which represents the number of elements in the modified array that are not equal to "val".
 
 
+## Solution
 
