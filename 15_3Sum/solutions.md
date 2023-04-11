@@ -35,3 +35,6 @@ Explanation: The only possible triplet does not sum up to 0.
 
 ## Solution
 The NeetCode video solution is provided at this link: https://www.youtube.com/watch?v=jzZsG8n2R9A
+
+1) Of course, the first solution would be to apply a brute force approach that would result in O(n*n*n) time complexity.
+2) This approach uses the approaches in solutions for two-sum and two-sum II.
