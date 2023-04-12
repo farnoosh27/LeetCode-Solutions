@@ -3,7 +3,7 @@
 ### easy
 ### array
 
-Given an integer array nums sorted in non-decreasing order, remove the duplicates in-place such that each unique element appears only once. The relative order of the elements should be kept the same. Then return the number of unique elements in nums.
+Given an integer array nums sorted in non-decreasing order, remove the duplicates **in-place** such that each unique element appears only once. The relative order of the elements should be kept the same. Then return the number of unique elements in nums.
 
 Consider the number of unique elements of nums be k, to get accepted, you need to do the following things:
 
@@ -27,8 +27,11 @@ for (int i = 0; i < k; i++) {
 ## solution:
 
 Neet Code explaination video: https://www.youtube.com/watch?v=DEJAZBq0FDA
+
 There will be two pointers left and right:
+
 for this question we can not use hashmap because we need to do the operation inplace
+
  we need to us two pointers:
             # l for left --> tell us the next unique value
             # l also tells us how many unique values
