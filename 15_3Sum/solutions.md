@@ -37,8 +37,11 @@ Explanation: The only possible triplet does not sum up to 0.
 The NeetCode video solution is provided at this link: https://www.youtube.com/watch?v=jzZsG8n2R9A
 
 1) Of course, the first solution would be to apply a brute force approach that would result in O(n*n*n) time complexity.
-2) This approach uses the approaches in solutions for two-sum and two-sum II. 
+3) This approach uses the approaches in solutions for two-sum and two-sum II.
+
   a) First we will sort the input array, and check if the adjacent values are the same. ( we are not allowed to have duplicates. 
+  
   b) Using two numbers exactly like two-sum-2
-  Time complexity would be O(onlogn) + O(n*2)
-  Space complexity: could be O(n) or O(1) because sorting does take some memory in some libraries. 
+  
+  📀 Time complexity would be O(onlogn) + O(n*2)
+  📀 Space complexity: could be O(n) or O(1) because sorting does take some memory in some libraries. 
