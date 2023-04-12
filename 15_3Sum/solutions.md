@@ -40,6 +40,7 @@ The NeetCode video solution is provided at this link: https://www.youtube.com/wa
 3) This approach uses the approaches in solutions for two-sum and two-sum II.
 
   a) First we will sort the input array, and check if the adjacent values are the same. ( we are not allowed to have duplicates. 
+  https://github.com/farnoosh27/LeetCode-Solutions/issues/2#issue-1664553202
   
   b) Using two numbers exactly like two-sum-2
   
