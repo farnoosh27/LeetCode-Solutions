@@ -18,5 +18,4 @@ This is a beginner question, and has a lot of solutions:
 1) brute force solution would exist, which requires O(n*n) time complexity and O(1) space complexity.
 2) Sorting and checkig for adjacent values, time complexity of this would be O(nlogn) space complexity O(1). 
 3) using Hashmap 
-4) 
 
