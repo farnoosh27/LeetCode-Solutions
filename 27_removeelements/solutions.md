@@ -21,4 +21,4 @@ After the traversal is complete, the solution returns the value of "l", which re
 
 
 ## Solution
-
+just like problem 26, this problem can be solved using two pointers.
