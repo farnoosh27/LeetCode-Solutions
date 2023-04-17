@@ -19,3 +19,5 @@ Input: s = "axc", t = "ahbgdc"
 Output: false
 
 ## Solution
+The NeetCode solution is provided in the link: https://www.youtube.com/watch?v=99RVfqklbCE
+
