@@ -21,4 +21,5 @@ After the traversal is complete, the solution returns the value of "l", which re
 
 
 ## Solution
+Here is the link to the NeetCode solution: https://www.youtube.com/watch?v=Pcd1ii9P9ZI
 just like problem 26, this problem can be solved using two pointers.
