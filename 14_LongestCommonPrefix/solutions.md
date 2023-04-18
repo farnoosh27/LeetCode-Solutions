@@ -14,3 +14,4 @@ Output: "fl"
 
 
 ## Solution
+You can find the NeetCode solution on YouTube: https://www.youtube.com/watch?v=0sWShKIJoo4
