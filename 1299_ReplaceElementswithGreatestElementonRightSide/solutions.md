@@ -24,4 +24,6 @@ Example 2:
 Input: arr = [400]
 Output: [-1]
 Explanation: There are no elements to the right of index 0.
+
 ## Solution
+You can find the NeetCode solution on YouTube: https://www.youtube.com/watch?v=ZHjKhUjcsaU
