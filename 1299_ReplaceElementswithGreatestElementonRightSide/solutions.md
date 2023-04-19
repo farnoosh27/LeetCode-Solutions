@@ -27,3 +27,4 @@ Explanation: There are no elements to the right of index 0.
 
 ## Solution
 You can find the NeetCode solution on YouTube: https://www.youtube.com/watch?v=ZHjKhUjcsaU
+1) The first solution is of n*n time complexity
