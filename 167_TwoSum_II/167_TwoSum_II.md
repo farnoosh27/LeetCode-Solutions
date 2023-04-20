@@ -23,6 +23,7 @@ Output: [1,2]
 Explanation: The sum of 2 and 7 is 9. Therefore, index1 = 1, index2 = 2. We return [1, 2].
   
   ## Solution
+ The NeetCode solution is provided in this link: https://www.youtube.com/watch?v=cQ1Oz4ckceM
 The approach used in this solution is a two-pointer technique. The idea is to start with two pointers, one at the beginning of the array (l) and the other at the end of the array (r), and move them towards each other until the sum of the numbers pointed to by l and r equals the target number.
 
 First, the function initializes the two pointers, l and r, to point to the first and last element of the array, respectively. Then, the function enters a loop where it checks if the sum of the numbers pointed to by l and r is greater than, less than, or equal to the target number.
