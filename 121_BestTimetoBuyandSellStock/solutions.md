@@ -32,7 +32,7 @@ Output: 0
 Explanation: In this case, no transactions are done and the max profit = 0.
 
 ## Solution:
-
+The neetcode solution can be found here: https://www.youtube.com/watch?v=1pkOgXD63yU
  1) brute force solution
  2) using two pointers as left and right.
 
