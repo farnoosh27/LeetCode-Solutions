@@ -20,7 +20,11 @@ Explanation: The array ans is formed as follows:
 
 ## Solution 
 Here is the LeetCode video solution: https://www.youtube.com/watch?v=68isPRHgcFQ
+
 1) The easiest solution would be to add the array to the array before and add it to the end
+
 2) Another more extensive approach would be to create an output array and take each value and append it, but if for example if the problem was asking for three concatenation we would do it another time. 
+
   * Since this is like a dynamic array, and we are taking each value and pushing it through the end O(n) would be the time complexity
+  
   * we will technically gonna need extra memory
