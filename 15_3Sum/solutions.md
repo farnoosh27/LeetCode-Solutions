@@ -46,7 +46,9 @@ The NeetCode video solution is provided at this link: https://www.youtube.com/wa
   b) Using two numbers exactly like two-sum-2
   
   ## Complexities: 
+  
   The second, optimized solution has: 
+  
   📀 Time complexity would be O(onlogn) + O(n*2)
   
   📀 Space complexity: could be O(n) or O(1) because sorting does take some memory in some libraries. 
