@@ -16,7 +16,8 @@ Here is the NeetCode solution: https://www.youtube.com/watch?v=_d0T_2Lk2qA&t=457
 If the interviewer asks this question, it's likely they're seeking multiple solutions. Here are three potential approaches:
 
 1) The easiest and most optimal solution for this question is swapping.
-2) Another approach that could be used is the stacking method.
+* the time complexity O(n) and the space complexity O(1)
+3) Another approach that could be used is the stacking method.
 
  * The time complexity of this solution is O(n) where n is the length of the input string s. This is because the function iterates over each character of s exactly once to push them onto the stack, and then iterates over the stack exactly once to pop the characters off and place them back into s.
 
