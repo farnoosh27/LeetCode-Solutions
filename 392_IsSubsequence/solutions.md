@@ -21,6 +21,8 @@ Output: false
 ## Solution
 The NeetCode solution is provided in the link: https://www.youtube.com/watch?v=99RVfqklbCE
 
+The function uses two pointers i and j to iterate through the characters of string s and string t, respectively. At each iteration, the function compares the current characters of both strings. If the characters are equal, the function increments both pointers. If the characters are not equal, the function increments only the pointer for string t.
+
 ### time and space complexity
 The time complexity of the given function is O(n), where n is the length of the longer string t.
 
