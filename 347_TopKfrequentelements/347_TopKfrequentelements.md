@@ -25,7 +25,7 @@ Output: [1]
 It is guaranteed that the answer is unique.
  
 
-Follow up: Your algorithm's time complexity must be *better* than O(n log n), where n is the array's size.
+Follow up: Your algorithm's time complexity must be *better than O(n log n), where n is the array's size.
 
 ## Solution
 
@@ -39,6 +39,7 @@ Here is the NeetCode solution explained on YouTube: https://www.youtube.com/watc
 
 <img width="1778" alt="bucketsort" src="https://user-images.githubusercontent.com/72529423/230746749-24f6c341-f29e-4c52-a6fb-6c48dba79602.png">
 
+## Time and Space complexity
 
 Bucket sort is useful when the input data is uniformly distributed over a range. It has a linear time complexity O(n) for average and best cases, 
 where **n is the number of elements in the input array**, making it one of the fastest sorting algorithms for such inputs.
