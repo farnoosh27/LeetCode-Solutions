@@ -39,11 +39,11 @@ Here is the NeetCode solution explained on YouTube: https://www.youtube.com/watc
 
 <img width="1778" alt="bucketsort" src="https://user-images.githubusercontent.com/72529423/230746749-24f6c341-f29e-4c52-a6fb-6c48dba79602.png">
 
-## Time and Space complexity
+### Time and Space complexity
 
 Bucket sort is useful when the input data is uniformly distributed over a range. It has a linear time complexity O(n) for average and best cases, 
 where **n is the number of elements in the input array**, making it one of the fastest sorting algorithms for such inputs.
 
 The basic idea of bucket sort is to divide the input array into a set of buckets based on some criteria, such as the value of the elements, and then sort each bucket individually using another sorting algorithm. The sorted buckets are then merged back together to produce the final sorted array."
 
-
+The space complexity of the code is O(n), where n is the length of the input list nums. The dictionary count used to store the frequency of each number can take up to O(n) space, and the frequency list freq can take up to O(n) space. The result list res can also take up to O(n) space in the worst case. Therefore, the overall space complexity of the code is O(n).
