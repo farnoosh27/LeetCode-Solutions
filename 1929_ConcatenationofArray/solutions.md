@@ -27,4 +27,4 @@ Here is the LeetCode video solution: https://www.youtube.com/watch?v=68isPRHgcFQ
 
   * Since this is like a dynamic array, and we are taking each value and pushing it through the end O(n) would be the time complexity
   
-  * we will technically gonna need extra memory
+  * we will technically gonna need extra memory, therefore, the space complexity of this code is also O(n)
