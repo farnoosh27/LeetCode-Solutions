@@ -19,7 +19,7 @@ Explanation: The array ans is formed as follows:
 - ans = [1,2,1,1,2,1]
 
 ## Solution 
-Here is the LeetCode video solution: https://www.youtube.com/watch?v=68isPRHgcFQ
+Here is the NeetCode video of the LeetCode questions's solution: https://www.youtube.com/watch?v=68isPRHgcFQ
 
 1) The easiest solution would be to add the array to the array before and add it to the end
 
