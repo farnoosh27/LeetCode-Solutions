@@ -25,6 +25,7 @@ Here is the LeetCode video solution: https://www.youtube.com/watch?v=68isPRHgcFQ
 
 2) Another more extensive approach would be to create an output array and take each value and append it, but if for example if the problem was asking for three concatenation we would do it another time. 
 
+### Time and Space complexity
   * Since this is like a dynamic array, and we are taking each value and pushing it through the end O(n) would be the time complexity
   
   * we will technically gonna need extra memory, therefore, the space complexity of this code is also O(n)
