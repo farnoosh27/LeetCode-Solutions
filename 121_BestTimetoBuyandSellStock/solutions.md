@@ -5,6 +5,7 @@
 ### array 
 #### two pointers
 ## Question
+
 You are given an array prices where prices[i] is the price of a given stock on the ith day.
 
 You want to maximize your profit by choosing a single day to buy one stock and choosing a different day in the future to sell that stock.
@@ -35,7 +36,7 @@ Explanation: In this case, no transactions are done and the max profit = 0.
 The neetcode solution can be found here: https://www.youtube.com/watch?v=1pkOgXD63yU
  1) brute force solution
  2) using two pointers as left and right.
-## Time and Space Complexity
+### Time and Space Complexity
 The time complexity of this function is O(n), where n is the length of the prices list. This is because the function iterates over the list once using a while loop, and each iteration performs constant time operations. 
 
 The space complexity is O(1), as the function uses a constant amount of memory regardless of the size of the input. Specifically, the function uses only a few variables to keep track of the maximum profit, the left and right pointers, and the current profit, which do not depend on the input size.
