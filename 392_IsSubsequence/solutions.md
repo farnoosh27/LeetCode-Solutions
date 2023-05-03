@@ -23,7 +23,7 @@ The NeetCode solution is provided in the link: https://www.youtube.com/watch?v=9
 
 The function uses two pointers i and j to iterate through the characters of string s and string t, respectively. At each iteration, the function compares the current characters of both strings. If the characters are equal, the function increments both pointers. If the characters are not equal, the function increments only the pointer for string t.
 
-### time and space complexity
+### Time and space complexity
 The time complexity of the given function is O(n), where n is the length of the longer string t.
 
 The while loop will iterate until either the end of string s is reached or the end of string t is reached. In the best case scenario, where string s is an empty string or has only one character, the while loop will execute once, and in the worst case scenario where both strings have the same length and are identical, the while loop will execute n times.
