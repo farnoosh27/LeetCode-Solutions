@@ -45,7 +45,7 @@ The NeetCode video solution is provided at this link: https://www.youtube.com/wa
   
   b) Using two numbers exactly like two-sum-2
   
-  ## Complexities: 
+  ### Time and Space Complexities: 
   
   The second, optimized solution has: 
   
