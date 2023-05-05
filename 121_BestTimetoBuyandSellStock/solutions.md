@@ -34,8 +34,8 @@ Explanation: In this case, no transactions are done and the max profit = 0.
 
 ## Solution:
 The neetcode solution can be found here: https://www.youtube.com/watch?v=1pkOgXD63yU
- 1) brute force solution
- 2) using two pointers as left and right.
+ 1) Brute force solution
+ 2) Using two pointers as left and right.
 ### Time and Space Complexity
 The time complexity of this function is O(n), where n is the length of the prices list. This is because the function iterates over the list once using a while loop, and each iteration performs constant time operations. 
 
