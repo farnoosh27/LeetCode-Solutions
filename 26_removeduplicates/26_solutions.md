@@ -41,3 +41,6 @@ for this question we can not use hashmap because we need to do the operation inp
 
 ## Time Complexity:
 Each pointer iterates over the same array, so, the time complexity is O(2.n) which we can assume O(n)
+The space complexity of the given function is O(1) or constant space complexity.
+
+
