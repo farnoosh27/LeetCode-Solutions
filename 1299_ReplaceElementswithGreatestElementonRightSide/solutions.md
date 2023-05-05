@@ -30,7 +30,8 @@ You can find the NeetCode solution on YouTube: https://www.youtube.com/watch?v=Z
 
 
 ### Time and Space Complexity
-1) The first solution is of n*n time complexity
-2) The space complexity of the given function is O(1) or constant space complexity.
+The first solution is of n*n time complexity
+
+The space complexity of the given function is O(1) or constant space complexity.
 
 
