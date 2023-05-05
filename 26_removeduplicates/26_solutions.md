@@ -1,5 +1,5 @@
 
-## 26 remove duplicates 
+## Remove Duplicates 
 ### easy
 ### array
 ### in-place
