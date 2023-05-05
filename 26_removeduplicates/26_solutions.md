@@ -40,4 +40,4 @@ for this question we can not use hashmap because we need to do the operation inp
             # r for right --> scanning throught the array
 
 ## Time Complexity:
-each pointer iterates over the same array, so, the time complexity is O(2.n) which we can assume O(n)
+Each pointer iterates over the same array, so, the time complexity is O(2.n) which we can assume O(n)
