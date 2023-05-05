@@ -1,5 +1,5 @@
 
-def maxProfit( prices):
+def maxProfit(prices):
 # here is the sliding window solution 
     l = 0
     r = 1
