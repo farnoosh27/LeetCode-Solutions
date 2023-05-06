@@ -1,5 +1,5 @@
 
-def maxProfit( prices):
+def maxProfit(prices):
     ## for brute force solution we can certainly define a max 
     # assume j is more than i and return the maximum of prices[j]-prices[i]
     max_profit = 0
