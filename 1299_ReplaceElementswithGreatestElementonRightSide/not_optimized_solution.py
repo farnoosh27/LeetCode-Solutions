@@ -17,6 +17,5 @@ print(replaceElements(arr))
 
 # The main reason for this is the use of max() function inside the loop. 
 # This function has to scan the remaining portion of the array every time to find the maximum element, which takes O(n) time. Since this operation is performed n-1 times in the loop, the overall time complexity becomes O(n^2).
-
 # To improve the time complexity, you can try to eliminate the use of max() function inside the loop.
 #  One way to do this is by keeping track of the maximum element seen so far, and updating it as you iterate through the array in reverse order.
