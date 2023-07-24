@@ -1,8 +1,8 @@
-## Two Sum
+# Two Sum
 ### easy
 ### array
 
-## Question:
+## Question
 This is the most popular LeetCode problem. 
 
 Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.
@@ -25,7 +25,8 @@ Input: nums = [3,2,4], target = 6
 
 Output: [1,2]
 
-## Solutions:
+## Solutions
+
 
 Here is a link to NeetCode: https://www.youtube.com/watch?v=KLlXCFG5TnA
 
