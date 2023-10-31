@@ -4,7 +4,8 @@ def threeSum(nums):
     nums.sort()
 
     for i, a in enumerate(nums):
-        if i > 0 and a == nums[i - 1]: # this means it is the same value, which means that we should continue
+        if i > 0 and a == nums[i - 1]:
+            # This means it is the same value, which means that we should continue
             continue
 
         l, r = i+1, len(nums)-1
